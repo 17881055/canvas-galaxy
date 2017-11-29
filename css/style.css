@@ -1,0 +1,17 @@
+.body {
+    margin: 0px 0px 0px 0px;
+    background-color: #000000;
+}
+
+.first {
+    z-index: 9;
+    position:absolute;
+    opacity: 0.3;
+}
+
+.second {
+    z-index: 1;
+    position:absolute;
+   
+  
+}
