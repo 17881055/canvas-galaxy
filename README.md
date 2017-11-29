@@ -1,2 +1,2 @@
-# canvas-galaxy-
-宇宙星空系列
+# canvas-galaxy
+canvas 宇宙星空系列
